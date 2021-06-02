@@ -10,6 +10,10 @@ p {
   margin: 25px 50px 75px 100px;
 }
 
+p.dashed {
+  border-style: dashed;
+}
+
 div {
   padding-top: 50px;
 
@@ -19,19 +23,3 @@ div {
 
   padding-left: 80px;
 } 
-
-p.dotted {
-  border-style: dotted;
-}
-
-p.dashed {
-  border-style: dashed;
-}
-
-p.solid {
-  border-style: solid;
-}
-
-p.double {
-  border-style: double;
-}
