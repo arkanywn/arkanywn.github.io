@@ -1,10 +1,17 @@
 head {style="color:Tomato;" Biodata Diri 2021}
+
+body {
+  background-color: lightblue;
+}
+
 p.dotted {border-style: dotted;}
+
 h2 {style="color:red;">Color}
 p {
 
   margin: 25px 50px 75px 100px;
 
 }
-{h2 style="color:Tomato;"}
-Online Class{/h3}
+
+<h2 style="color:Tomato;"> Online Class</h2>
+
