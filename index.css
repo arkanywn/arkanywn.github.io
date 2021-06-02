@@ -2,6 +2,10 @@ body {
   background-color: lightblue;
 }
 
+hi {
+  style="color:Tomato;" : Hello World ;
+}
+
 p {
   margin: 25px 50px 75px 100px;
 }
