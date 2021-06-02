@@ -2,10 +2,6 @@ body {
   background-color: lightblue;
 }
 
-p.dotted {
-  border-style: dotted;
-}
-
 p {
   margin: 25px 50px 75px 100px;
 }
