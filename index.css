@@ -1,7 +1,3 @@
-head {
-  style="color:Tomato;" Biodata Diri 2021
-}
-
 body {
   background-color: lightblue;
 }
@@ -10,18 +6,11 @@ p.dotted {
   border-style: dotted;
 }
 
-h2 {
-  style="color:red;">Color
-}
-
 p {
-
   margin: 25px 50px 75px 100px;
-
 }
 
 div {
-
   padding-top: 50px;
 
   padding-right: 30px;
@@ -29,5 +18,4 @@ div {
   padding-bottom: 50px;
 
   padding-left: 80px;
-
 } 
